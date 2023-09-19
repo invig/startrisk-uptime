@@ -1,6 +1,7 @@
 # Change these first
-owner: invig # Your GitHub organization or username, where this repository lives
-repo: startrisk-uptime # The name of this repository
+owner: invig
+repo: startrisk-uptime
+user-agent: invig
 
 sites:
   - name: StartRisk
@@ -14,16 +15,15 @@ status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
   cname: status.startrisk.com
-  # baseUrl: /your-repo-name
+  # baseUrl: /startrisk-uptime
   logoUrl: https://startrisk.com/assets/assets/Logo/HeaderLogo.png
   name: StartRisk Status
   introTitle: "StarRisk Uptime Monitor"
-  introMessage: "Hopefully there's a lot of green, if not you can contact support@startrisk.com for help."
   navbar:
     - title: StartRisk Status
       href: /
     - title: StartRisk
-      href: https://www.startrisk.com
+      href: https://www.startrisk.com/
 
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
