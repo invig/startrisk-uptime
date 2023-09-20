@@ -19,7 +19,8 @@ status-website:
   logoUrl: https://startrisk.com/assets/assets/Logo/HeaderLogo.png
   theme: light
   favicon: https://startrisk.com/favicon.png
-  css: ".logo img { height: 21.5px; width: 150px;}"
+  css: ".logo img { height: 21.5px !important; width: 150px; } .logo div { display: none } body { background-color: #FFF; } footer { display: none }"
+  name: StartRisk Status
   navbar:
     - title: Back to StartRisk
       href: https://www.startrisk.com/
