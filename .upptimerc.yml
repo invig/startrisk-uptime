@@ -17,13 +17,13 @@ status-website:
   cname: status.startrisk.com
   # baseUrl: /startrisk-uptime
   logoUrl: https://startrisk.com/assets/assets/Logo/HeaderLogo.png
-  name: StartRisk Status
-  introTitle: "StarRisk Uptime Monitor"
+  theme: light
+  favicon: https://startrisk.com/favicon.png
+  css: ".logo img { height: 21.5px; width: 150px;}"
   navbar:
-    - title: StartRisk Status
-      href: /
-    - title: StartRisk
+    - title: Back to StartRisk
       href: https://www.startrisk.com/
+
 
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
