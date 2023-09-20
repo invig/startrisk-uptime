@@ -8,7 +8,7 @@ sites:
     url: https://www.startrisk.com
   - name: StartRisk Services
     url: $SERVICES_PING
-  - name: Supabase
+  - name: StartRisk Storage
     url: $SERVICES_SUPABASE_PING
 
 status-website:
