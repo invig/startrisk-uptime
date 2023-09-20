@@ -14,8 +14,8 @@ sites:
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
-  # cname: status.startrisk.com
-  baseUrl: /startrisk-uptime
+  cname: status.startrisk.com
+  # baseUrl: /startrisk-uptime
   logoUrl: https://startrisk.com/assets/assets/Logo/HeaderLogo.png
   name: StartRisk Status
   introTitle: "StarRisk Uptime Monitor"
