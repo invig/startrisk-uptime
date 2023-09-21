@@ -5,18 +5,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.startrisk.com.ico",
     "slug": "start-risk",
     "status": "down",
-    "uptime": "99.71%",
-    "uptimeDay": "99.30%",
-    "uptimeWeek": "99.71%",
-    "uptimeMonth": "99.71%",
-    "uptimeYear": "99.71%",
+    "uptime": "99.48%",
+    "uptimeDay": "98.73%",
+    "uptimeWeek": "99.48%",
+    "uptimeMonth": "99.48%",
+    "uptimeYear": "99.48%",
     "time": 273,
     "timeDay": 403,
     "timeWeek": 273,
     "timeMonth": 273,
     "timeYear": 273,
     "dailyMinutesDown": {
-      "2023-09-21": 10
+      "2023-09-21": 18
     }
   },
   {
@@ -24,19 +24,19 @@
     "url": "$SERVICES_PING",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "start-risk-services",
-    "status": "up",
-    "uptime": "99.52%",
-    "uptimeDay": "99.36%",
-    "uptimeWeek": "99.52%",
-    "uptimeMonth": "99.52%",
-    "uptimeYear": "99.52%",
+    "status": "down",
+    "uptime": "99.76%",
+    "uptimeDay": "99.95%",
+    "uptimeWeek": "99.76%",
+    "uptimeMonth": "99.76%",
+    "uptimeYear": "99.76%",
     "time": 602,
     "timeDay": 533,
     "timeWeek": 602,
     "timeMonth": 602,
     "timeYear": 602,
     "dailyMinutesDown": {
-      "2023-09-21": 9,
+      "2023-09-21": 1,
       "2023-09-20": 8
     }
   },
@@ -45,9 +45,9 @@
     "url": "$SERVICES_SUPABASE_PING",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "start-risk-storage",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -56,6 +56,8 @@
     "timeWeek": 586,
     "timeMonth": 586,
     "timeYear": 586,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-09-21": 0
+    }
   }
 ]
