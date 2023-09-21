@@ -5,18 +5,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.startrisk.com.ico",
     "slug": "start-risk",
     "status": "down",
-    "uptime": "99.48%",
-    "uptimeDay": "98.73%",
-    "uptimeWeek": "99.48%",
-    "uptimeMonth": "99.48%",
-    "uptimeYear": "99.48%",
+    "uptime": "99.30%",
+    "uptimeDay": "98.27%",
+    "uptimeWeek": "99.30%",
+    "uptimeMonth": "99.30%",
+    "uptimeYear": "99.30%",
     "time": 273,
     "timeDay": 403,
     "timeWeek": 273,
     "timeMonth": 273,
     "timeYear": 273,
     "dailyMinutesDown": {
-      "2023-09-21": 18
+      "2023-09-21": 25
     }
   },
   {
@@ -24,19 +24,19 @@
     "url": "$SERVICES_PING",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "start-risk-services",
-    "status": "down",
-    "uptime": "99.76%",
-    "uptimeDay": "99.95%",
-    "uptimeWeek": "99.76%",
-    "uptimeMonth": "99.76%",
-    "uptimeYear": "99.76%",
-    "time": 602,
-    "timeDay": 533,
-    "timeWeek": 602,
-    "timeMonth": 602,
-    "timeYear": 602,
+    "status": "up",
+    "uptime": "99.58%",
+    "uptimeDay": "99.52%",
+    "uptimeWeek": "99.58%",
+    "uptimeMonth": "99.58%",
+    "uptimeYear": "99.58%",
+    "time": 588,
+    "timeDay": 498,
+    "timeWeek": 588,
+    "timeMonth": 588,
+    "timeYear": 588,
     "dailyMinutesDown": {
-      "2023-09-21": 1,
+      "2023-09-21": 7,
       "2023-09-20": 8
     }
   },
@@ -45,19 +45,19 @@
     "url": "$SERVICES_SUPABASE_PING",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "start-risk-storage",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 586,
-    "timeDay": 690,
-    "timeWeek": 586,
-    "timeMonth": 586,
-    "timeYear": 586,
+    "status": "up",
+    "uptime": "99.73%",
+    "uptimeDay": "99.54%",
+    "uptimeWeek": "99.73%",
+    "uptimeMonth": "99.73%",
+    "uptimeYear": "99.73%",
+    "time": 5547,
+    "timeDay": 8079,
+    "timeWeek": 5547,
+    "timeMonth": 5547,
+    "timeYear": 5547,
     "dailyMinutesDown": {
-      "2023-09-21": 0
+      "2023-09-21": 7
     }
   }
 ]
