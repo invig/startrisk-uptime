@@ -5,16 +5,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.startrisk.com.ico",
     "slug": "start-risk",
     "status": "up",
-    "uptime": "99.86%",
+    "uptime": "99.87%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.86%",
-    "uptimeYear": "99.86%",
-    "time": 245,
-    "timeDay": 350,
-    "timeWeek": 206,
-    "timeMonth": 245,
-    "timeYear": 245,
+    "uptimeMonth": "99.87%",
+    "uptimeYear": "99.87%",
+    "time": 246,
+    "timeDay": 256,
+    "timeWeek": 220,
+    "timeMonth": 246,
+    "timeYear": 246,
     "dailyMinutesDown": {
       "2023-09-21": 38
     }
@@ -30,11 +30,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.97%",
     "uptimeYear": "99.97%",
-    "time": 618,
-    "timeDay": 501,
-    "timeWeek": 641,
-    "timeMonth": 618,
-    "timeYear": 618,
+    "time": 615,
+    "timeDay": 499,
+    "timeWeek": 619,
+    "timeMonth": 615,
+    "timeYear": 615,
     "dailyMinutesDown": {
       "2023-09-20": 8
     }
@@ -50,11 +50,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1384,
-    "timeDay": 195,
-    "timeWeek": 583,
-    "timeMonth": 1384,
-    "timeYear": 1384,
+    "time": 1357,
+    "timeDay": 811,
+    "timeWeek": 628,
+    "timeMonth": 1357,
+    "timeYear": 1357,
     "dailyMinutesDown": {}
   }
 ]
