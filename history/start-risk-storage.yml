@@ -1,7 +1,7 @@
 url: $SERVICES_SUPABASE_PING
 status: up
 code: 200
-responseTime: 670
-lastUpdated: 2023-10-20T23:02:24.002Z
+responseTime: 476
+lastUpdated: 2023-10-21T23:02:05.232Z
 startTime: 2023-09-20T01:35:23.905Z
 generator: Upptime <https://github.com/upptime/upptime>
