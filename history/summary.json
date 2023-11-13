@@ -11,9 +11,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.95%",
     "time": 294,
-    "timeDay": 214,
-    "timeWeek": 286,
-    "timeMonth": 346,
+    "timeDay": 347,
+    "timeWeek": 290,
+    "timeMonth": 345,
     "timeYear": 294,
     "dailyMinutesDown": {
       "2023-09-21": 38
@@ -31,9 +31,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 611,
-    "timeDay": 540,
-    "timeWeek": 578,
-    "timeMonth": 608,
+    "timeDay": 661,
+    "timeWeek": 594,
+    "timeMonth": 609,
     "timeYear": 611,
     "dailyMinutesDown": {
       "2023-09-20": 8
@@ -45,16 +45,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "start-risk-storage",
     "status": "up",
-    "uptime": "99.96%",
+    "uptime": "99.97%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.94%",
-    "uptimeYear": "99.96%",
-    "time": 903,
-    "timeDay": 416,
-    "timeWeek": 523,
-    "timeMonth": 647,
-    "timeYear": 903,
+    "uptimeYear": "99.97%",
+    "time": 892,
+    "timeDay": 296,
+    "timeWeek": 502,
+    "timeMonth": 636,
+    "timeYear": 892,
     "dailyMinutesDown": {
       "2023-10-30": 27
     }
