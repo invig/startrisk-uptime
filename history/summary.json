@@ -26,9 +26,9 @@
     "slug": "start-risk-services",
     "status": "up",
     "uptime": "99.99%",
-    "uptimeDay": "99.52%",
-    "uptimeWeek": "99.93%",
-    "uptimeMonth": "99.98%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 633,
     "timeDay": 709,
@@ -36,7 +36,6 @@
     "timeMonth": 647,
     "timeYear": 633,
     "dailyMinutesDown": {
-      "2024-04-29": 7,
       "2023-11-27": 16,
       "2023-09-20": 8
     }
@@ -48,9 +47,9 @@
     "slug": "start-risk-storage",
     "status": "up",
     "uptime": "99.98%",
-    "uptimeDay": "99.52%",
-    "uptimeWeek": "99.93%",
-    "uptimeMonth": "99.98%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
     "time": 760,
     "timeDay": 454,
@@ -58,7 +57,6 @@
     "timeMonth": 558,
     "timeYear": 760,
     "dailyMinutesDown": {
-      "2024-04-29": 7,
       "2023-12-15": 24,
       "2023-12-14": 1,
       "2023-11-27": 16,
