@@ -4,7 +4,7 @@
     "url": "https://www.startrisk.com",
     "icon": "https://icons.duckduckgo.com/ip3/www.startrisk.com.ico",
     "slug": "start-risk",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -16,6 +16,7 @@
     "timeMonth": 465,
     "timeYear": 347,
     "dailyMinutesDown": {
+      "2024-06-17": 0,
       "2023-09-21": 38
     }
   },
