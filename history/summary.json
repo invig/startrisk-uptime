@@ -5,18 +5,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.startrisk.com.ico",
     "slug": "start-risk",
     "status": "down",
-    "uptime": "99.99%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.98%",
-    "uptimeYear": "99.99%",
+    "uptime": "99.98%",
+    "uptimeDay": "98.65%",
+    "uptimeWeek": "99.81%",
+    "uptimeMonth": "99.93%",
+    "uptimeYear": "99.98%",
     "time": 378,
     "timeDay": 256,
     "timeWeek": 972,
     "timeMonth": 799,
     "timeYear": 378,
     "dailyMinutesDown": {
-      "2024-07-07": 0,
+      "2024-07-07": 19,
       "2024-06-17": 9,
       "2023-09-21": 38
     }
@@ -26,10 +26,10 @@
     "url": "$SERVICES_PING",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "start-risk-services",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.96%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 647,
@@ -38,6 +38,7 @@
     "timeMonth": 759,
     "timeYear": 647,
     "dailyMinutesDown": {
+      "2024-07-07": 1,
       "2023-11-27": 16,
       "2023-09-20": 8
     }
